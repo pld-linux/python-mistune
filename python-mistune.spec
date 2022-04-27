@@ -7,6 +7,8 @@
 Summary:	Fast markdown parser in pure Python
 Summary(pl.UTF-8):	Szybki parser markdown napisany w czystym Pythonie
 Name:		python-mistune
+# note: keep 0.8.x for now, all users (m2r and docwriter) are not compatible with 2.x
+# (2.0.1 is prepared on DEVEL-2 branch for possible future use)
 Version:	0.8.4
 Release:	7
 License:	BSD
